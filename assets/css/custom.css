@@ -144,7 +144,7 @@ footer .cright {
 .info_block .data {
     margin-right: 20px;
 }
-.info_block .data p {
+.info_block .data p ,b {
     color: #575756;
     font-size: 19px;
     font-family: "Open+Sans",Georgia,Serif;
@@ -221,6 +221,9 @@ section.info_contact {
 }
 .h100 {
   height: 100%;
+}
+b{
+
 }
 
 /**buttons*/
